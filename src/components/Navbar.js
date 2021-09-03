@@ -10,7 +10,6 @@ import {
     Switch,
     Route,
     Link,
-    Redirect
   } from "react-router-dom";
 import Reciept from "./RecieptBooked";
 

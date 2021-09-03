@@ -34,7 +34,7 @@ input, button {
 /* Modify brand and text color */
 .navbar-custom {
   background-color: lightgreen;
-  background-image: linear-gradient(to bottom right, #e0ce79, #7c7477);
+  background-image: linear-gradient(to bottom right, #8cc565, #9c375c);
 }
 
 .form:after {
@@ -112,4 +112,9 @@ input, button {
 .form .form-inner button:hover {
   background-position: 100% 0%;
 }
-
+.image {
+  height:800px;
+  background-color:#FFFFFF;
+  margin-top:10px;
+  overflow: hidden;
+}
